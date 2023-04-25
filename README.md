@@ -1,3 +1,5 @@
+![logo](https://github.com/nitinyadav7607/nitinyadav7607/blob/main/banner.png)
+
 <h1 align="center">Hi 👋, I'm Nitin yadav</h1>
 <h3 align="center">A passionate student of IIT Guwahati from India</h3>
 
